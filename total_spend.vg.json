@@ -33,7 +33,7 @@
     "color":{
       "field": "Category",
       "type": "nominal",
-      "scale": {"scheme": "blues"},
+      
       "legend": {
         "titleFontSize": 16,
         "labelFontSize": 14
