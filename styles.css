@@ -13,6 +13,10 @@ body {
   margin: 10px 7px 0px 7px;          
 }
 
+h4 {
+    color: #527298
+}
+
 .subtitle{
     text-align: center;
     font-family: 'Montserrat', sans-serif;
@@ -132,3 +136,4 @@ body {
 #spend {
     margin-top: 40px;
 }
+
